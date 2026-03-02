@@ -6,6 +6,10 @@ We are making this because the code is outdated and langchain has new way of cre
 
 ---
 
+# AI Travel Planner
+
+![AI Travel Planner Workflow](./Assets/AI+travel+planner+Workflow.png)
+
 ### 1. Initial Setup
 
 - **Push code to GitHub**  
