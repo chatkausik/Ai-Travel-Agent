@@ -45,7 +45,7 @@ We are making this because the code is outdated and langchain has new way of cre
   ```bash
   git clone https://github.com/chatkausik/Ai-Travel-Agent.git
   ls
-  cd Ai-Trip-Planner-with-GCPi-Travel-Agent
+  cd Ai-Travel-Agent
   ls  # You should see the contents of your project
   ```
 
